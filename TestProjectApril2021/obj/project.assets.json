@@ -6829,11 +6829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SOLANGE\\source\\repos\\TestProjectApril2021\\TestProjectApril2021\\TestProjectApril2021.csproj",
+      "projectUniqueName": "C:\\Users\\SOLANGE\\source\\repos\\Training\\TestProjectMarch\\TestProjectApril2021\\TestProjectApril2021.csproj",
       "projectName": "TestProjectApril2021",
-      "projectPath": "C:\\Users\\SOLANGE\\source\\repos\\TestProjectApril2021\\TestProjectApril2021\\TestProjectApril2021.csproj",
+      "projectPath": "C:\\Users\\SOLANGE\\source\\repos\\Training\\TestProjectMarch\\TestProjectApril2021\\TestProjectApril2021.csproj",
       "packagesPath": "C:\\Users\\SOLANGE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SOLANGE\\source\\repos\\TestProjectApril2021\\TestProjectApril2021\\obj\\",
+      "outputPath": "C:\\Users\\SOLANGE\\source\\repos\\Training\\TestProjectMarch\\TestProjectApril2021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SOLANGE\\AppData\\Roaming\\NuGet\\NuGet.Config",

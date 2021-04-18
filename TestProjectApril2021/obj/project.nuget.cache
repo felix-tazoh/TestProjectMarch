@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASbGchPvRQ7AT+Nv7yXSyN3GyCiRixUh4WUrDCcFlWIhPaoQ1qyaSjylKEjQirn2RTtq3tWYtG0xBPOw06eHTg==",
+  "dgSpecHash": "pl/z7BUoSM2DEGMq6Fjw92f3sKLjPwHm7gMRoVZSY1A57K/Dfef7RnXD0sMGp6VIomsBabjhlSQ5a2fnOeczbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SOLANGE\\source\\repos\\TestProjectApril2021\\TestProjectApril2021\\TestProjectApril2021.csproj",
+  "projectFilePath": "C:\\Users\\SOLANGE\\source\\repos\\Training\\TestProjectMarch\\TestProjectApril2021\\TestProjectApril2021.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SOLANGE\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\SOLANGE\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
