@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SOLANGE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SOLANGE\\.nuget\\packages"
+    ]
+  }
+}
